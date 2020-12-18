@@ -2,4 +2,4 @@
 
 
 ## 🔧 Project Diagram:
-![Project Diagram](https://i.gyazo.com/2738ea6743a40036756b1b5714ab9fa8.png)
+![img1](https://user-images.githubusercontent.com/46351318/102606566-ed54a700-414c-11eb-8a27-20a925fd41a2.png)
